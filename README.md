@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Jamil Uddin
 - 👀 I’m interested in Cloud Develoment like Azure.
-- 🌱 I’m currently learning Az-104, PHP, C#, front-end development.
+- 🌱 I’m currently learning sc-300, PHP, C#, front-end development.
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me : azad1031@gmail.com, uddin.jamil.md@gmail.com
 
